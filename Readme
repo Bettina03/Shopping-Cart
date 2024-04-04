@@ -1,0 +1,3 @@
+Design a system for adding, removing, and signing out items from the cart in shopping websites. 
+Create all the classes required for the tables to be created in the database and the service class for adding, removing, and signing out products from the cart. 
+The implementation should follow OOPs concepts and SOLID principles.
